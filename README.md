@@ -1,24 +1,5 @@
-# README
+# One Month Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my project and I am having fun. The purpose is to allow men to capture their beer journeys, visually, and share them with their friends. Learn More at http://beerboard.co
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+by [Joshua Millage] (http://joshuamillage.com)
